@@ -9,7 +9,7 @@
 
 ## Descripción
 
-Este repositorio acompaña al curso **Inteligencia Artificial (ISC_IA_SCC_1012)** impartido en el Tecnológico Nacional de México para Ingeniería en Sistemas Computacionales. Aquí se integran todos los materiales, prácticas, proyectos y recursos necesarios para desarrollar competencias en análisis, diseño y programación de modelos inteligentes aplicando IA a la solución de problemas complejos en automatización, diagnóstico, toma de decisiones, clasificación y minería de datos.
+Este repositorio acompaña al curso **Inteligencia Artificial (ISC_IA_SCC_1012)** impartido en el Tecnológico Superior de Jalisco Zapopan para la Ingeniería en Sistemas Computacionales. Aquí se integran todos los materiales, prácticas, proyectos y recursos necesarios para desarrollar competencias en análisis, diseño y programación de modelos inteligentes aplicando IA a la solución de problemas complejos en automatización, diagnóstico, toma de decisiones, clasificación y minería de datos.
 
 A través de este curso, el estudiante aprenderá desde los fundamentos históricos y filosóficos, representación del conocimiento, técnicas de búsqueda y sistemas expertos, hasta redes neuronales, robótica, PLN, lógica difusa y más, fomentando trabajo interdisciplinario y el impacto en su entorno profesional y social.
 
